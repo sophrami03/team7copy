@@ -97,7 +97,7 @@
   
   .about{
     display: flex;
-    /*flex-direction: column;*/
+    flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     color: #000;
@@ -108,8 +108,8 @@
   .about-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    height: 95vh;
-    padding: 3rem calc((100vw - 1300px) / 2);
+    height: 150vh;
+    /*padding: 3rem calc((100vw - 1300px) / 2);*/
   }
 
   @media screen and (max-width: 768px) {
