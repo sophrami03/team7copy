@@ -36,6 +36,10 @@
   .home {
     background: #83ac5a;
   }
+
+  .home-title{
+    color: #fff;
+  }
   
   .home-container {
     display: grid;
