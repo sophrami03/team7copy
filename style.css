@@ -93,19 +93,11 @@
   
   .about{
     display: flex;
-    flex-direction: column;
+    /*flex-direction: column;*/
     justify-content: center;
     align-items: flex-start;
     color: #000;
     padding: 0rem 2rem;  
-  }
-
-  .about-title{
-
-  }
-
-  .about-body{
-
   }
 
   @media screen and (max-width: 768px) {
